@@ -1,0 +1,96 @@
+body {
+  background-color: rgb(215, 210, 172);
+  color: white;
+}
+
+h1 {
+  background-color: rgb(215, 100, 100);
+  font-family: "Syne", sans-serif;
+  font-size: 60px;
+  text-align: center;
+  padding: 50px;
+  border-radius: 10px;
+  margin-top: 20px;
+  line-height: 75px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+p {
+  font-family: "Syne", sans-serif;
+  font-size: 18px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 40px;
+  font-family: "Syne", sans-serif;
+  text-decoration-line: underline;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.zeldainfo {
+  background-color: rgb(163, 136, 85);
+  text-align: center;
+  padding: 30px;
+  border-radius: 15px;
+  line-height: 30px;
+  margin-top: -20px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+body {
+  background-color: antiquewhite;
+}
+
+.zoom {
+  padding: 10px;
+  transition: transform 0.2s;
+}
+
+.zoom:hover {
+  -ms-transform: scale(1.4); /* IE 9 */
+  -webkit-transform: scale(1.4); /* Safari 3-8 */
+  transform: scale(1.4);
+}
+
+footer {
+  text-align: center;
+  color: black;
+}
+
+.navbar {
+  text-align: center;
+  white-space: nowrap;
+  display: inline-flex;
+  position: relative;
+  margin-top: 10px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0 5px 0 0;
+  margin: 5px;
+}
+
+.button {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border: none;
+  border-radius: 2em;
+  color: white;
+  background-color: rgb(215, 100, 100);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+

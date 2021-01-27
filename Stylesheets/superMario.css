@@ -1,0 +1,71 @@
+body {
+    background-color:rgb(180, 39, 39)	;
+}
+
+
+
+h1 {
+  color: black;
+  text-align: center;
+  font-family: Impact, fantasy;
+  font-weight: 2000;
+  margin: 100px ;
+  margin-top: 150px;
+
+}
+
+h2 {
+  text-align: center;
+  font-family: Impact, fantasy;
+  margin: 40px ;
+  display: block;
+}
+
+p {
+  font-size: 20px;
+  font-weight: 400;
+  font-family: Arial, Helvetica, sans-serif;
+  display: table;
+  margin: 80px 2px;
+  text-align: center; 
+}
+
+img 
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+}
+
+@font-face {
+    font-family: SuperMario; src: url('/fonts/SuperMario256.ttf');
+}
+
+.SuperMarioFont {
+  font-family: SuperMario;
+  font-size: 60px;
+}
+
+.button {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: none;
+    border-radius: 2em;
+    background-color:gray;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+  }
+
+a {
+  color:white;
+}
+
+
+
+  
